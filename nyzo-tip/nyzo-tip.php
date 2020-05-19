@@ -3,8 +3,8 @@
  * @package nyzo-tip
  */
 /*
-Plugin Name: Nyzo tip button
-Plugin URI: https://angainor.com
+Plugin Name: Nyzo tip
+Plugin URI: https://github.com/AngainorDev/Nyzotip-plugin
 Description: Activate on your WordPress blog and get tips from the Nyzo Chrome extension in seconds.
 Version: 0.0.1
 Author: AngainorDev

@@ -3,7 +3,7 @@
 A Nyzo tip Wordpress plugin.  
 Activate on your wordpress blog and get tips from the Nyzo Chrome extension in seconds.
 
-TO BE RELEASED
+RELEASED
 
 # Installation
 
