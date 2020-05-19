@@ -42,7 +42,11 @@ Official Nyzo Website: https://nyzo.co
 
 Chrome extension, from official Tech website: http://tech.nyzo.co/setupInstructions/chromeBrowserExtension
 
-<span style="display:none" class="nyzo-tip-button" data-client-url="https://client.nyzo.co" data-receiver-id="id__8fKFZURhpkYzQA6CkP~kivW_ospgrjJXU0tMwS3uByzcqjaVvi-I" data-tag="Sent with nyzo tip wp extension" ></span>
+<span style="display:none" class="nyzo-tip-button" data-client-url="https://client.nyzo.co" data-receiver-id="id__8fKFZURhpkYzQA6CkP~kivW_ospgrjJXU0tMwS3uByzcqjaVvi-I" data-tag="Sent with nyzo tip wp extension" > </span>
+
+# Changelog
+
+see [changelog.md](changelog.md)
 
 # Licence
 
