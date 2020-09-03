@@ -6,7 +6,7 @@
 Plugin Name: Nyzo tip button
 Plugin URI: https://angainor.com
 Description: Nyzo rules
-Version: 0.0.2
+Version: 0.0.3
 Author: Angainor
 Author URI: https://angainor.com
 License: Unlicence
@@ -55,7 +55,7 @@ function nyzotip_options() {
 	if (!is_admin()) {
 		die();
 	}
-	if (!empty($_POST['receiver_id'])) {
+	if (!empty($_POST['receiver_id']) && !empty($_POST['nonce']) && wp_verify_nonce($_POST['nonce'], 'nyzotip_config') ) {
 		$receiver_id = sanitize_text_field($_POST['receiver_id']);
 		$valid_id = preg_match("/^id__([0-9a-zA-Z]|[\.~_-]){48,96}$/", $receiver_id);
 		if ($valid_id == 1) {
