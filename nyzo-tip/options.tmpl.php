@@ -6,6 +6,7 @@
 		<br>&nbsp;<br />
 		<label for="client_url">Client url:</label><br />
 		<input type="text" name="client_url" value="<?php echo esc_attr(esc_url($nyzotip_options['client_url'])); ?>" >
+		<input type="hidden" name="nonce" value="<?php echo wp_create_nonce( 'nyzotip_config' ) ?>">
 		<br>&nbsp;<br />
 		<label for="stealth_tip">Add stealth code to each page:</label><br>
 		<label for="stealth_tip1">Yes:</label>		
