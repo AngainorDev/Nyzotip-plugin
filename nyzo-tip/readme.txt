@@ -5,7 +5,7 @@ Donate link: https://github.com/AngainorDev/Nyzotip-plugin#donation-address
 Requires at least: 3.0
 Tested up to: 5.4.1
 Requires PHP: 7.0
-Stable tag: 0.0.2
+Stable tag: 0.0.3
 License: Unlicence
 License URI: https://github.com/AngainorDev/Nyzotip-plugin/raw/master/LICENSE
 
