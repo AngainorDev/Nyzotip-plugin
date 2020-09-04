@@ -46,7 +46,7 @@ Chrome extension, from official Tech website: http://tech.nyzo.co/setupInstructi
 
 # Changelog
 
-see [changelog.md](changelog.md)
+see plugin readme.txt
 
 # Licence
 

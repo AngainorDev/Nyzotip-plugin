@@ -5,7 +5,7 @@ Donate link: https://github.com/AngainorDev/Nyzotip-plugin#donation-address
 Requires at least: 3.0
 Tested up to: 5.4.1
 Requires PHP: 7.0
-Stable tag: 0.0.3
+Stable tag: 0.1.1
 License: Unlicence
 License URI: https://github.com/AngainorDev/Nyzotip-plugin/raw/master/LICENSE
 
@@ -36,8 +36,30 @@ See that url for Terms of use and disclaimer.
 See https://github.com/AngainorDev/Nyzotip-plugin
 
 == Screenshots ==
-1. https://raw.githubusercontent.com/AngainorDev/Nyzotip-plugin/master/nyzotip1.png
-2. https://raw.githubusercontent.com/AngainorDev/Nyzotip-plugin/master/nyzotip2.png
+1. The settings screen of the plugin
+2. The nyzo tip icon as seen by users
 
 == Changelog ==
-https://raw.githubusercontent.com/AngainorDev/Nyzotip-plugin/master/changelog.md
+
+= 0.1.1 =
+* Add missing icons
+
+= 0.1.0 =
+* First version hosted on official WordPress repository
+
+= 0.0.3 =
+* Wordpress validated version
+* Style guide conformity
+* Added safety and checks
+
+= 0.0.1 =
+* First public release
+
+
+== Upgrade Notice ==
+
+= 0.1.1 =
+* Missing icons are now included
+
+= 0.1.0 =
+* Streamline version with added safety.
